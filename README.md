@@ -293,7 +293,7 @@
           **Content:** <br />
 
       ```json
-      {"message": "Quiz created"}
+      {"message": "Question created"}
       ```
 
 * **Error Response:**
